@@ -1,0 +1,57 @@
+{
+ "A": {
+  "card": {
+   "thumb": "img/spajapo-1.jpg",
+   "title": "スパジャポ 露天風呂（公式サイト掲載）",
+   "lic": "スパジャポ公式サイトより"
+  },
+  "detail": [
+   {
+    "thumb": "img/spajapo-1.jpg",
+    "title": "スパジャポ 露天風呂（公式サイト掲載）",
+    "lic": "スパジャポ公式サイトより"
+   },
+   {
+    "thumb": "img/spajapo-2.jpg",
+    "title": "スパジャポ 露天風呂（公式サイト掲載）",
+    "lic": "スパジャポ公式サイトより"
+   }
+  ],
+  "food": []
+ },
+ "B": {
+  "card": {
+   "thumb": "img/opark-1.jpg",
+   "title": "オーパークおごせ 水着スパ（公式サイト掲載）",
+   "lic": "オーパークおごせ公式サイトより"
+  },
+  "detail": [
+   {
+    "thumb": "img/opark-2.jpg",
+    "title": "オーパークおごせ キューゲルサウナ（公式サイト掲載）",
+    "lic": "オーパークおごせ公式サイトより"
+   },
+   {
+    "thumb": "img/opark-3.jpg",
+    "title": "オーパークおごせ おごせの湯（公式サイト掲載）",
+    "lic": "オーパークおごせ公式サイトより"
+   }
+  ],
+  "food": []
+ },
+ "C": {
+  "card": {
+   "thumb": "img/yubune-1.jpg",
+   "title": "YUBUNE SAUNA PARK 屋外プール（公式サイト掲載）",
+   "lic": "YUBUNE SAUNA PARK公式サイトより"
+  },
+  "detail": [
+   {
+    "thumb": "img/yubune-1.jpg",
+    "title": "YUBUNE SAUNA PARK 屋外プール（公式サイト掲載）",
+    "lic": "YUBUNE SAUNA PARK公式サイトより"
+   }
+  ],
+  "food": []
+ }
+}
